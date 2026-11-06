@@ -1,0 +1,26 @@
+《周易》离线古文数据：来源与许可
+
+古籍正文：《周易》卦辞、爻辞、《彖》《象》《说卦》。古籍原文属公有领域。
+主转录来源：维基文库《周易》及《易传·说卦》。每卦来源 URL 与固定 revision URL 已置于 zhouyi-classics.json 的 sources。
+https://zh.wikisource.org/wiki/周易
+https://zh.wikisource.org/wiki/易傳/說卦
+维基文库《周易》页明确标示作品公有领域；该站转录、标点、校记等使用知识共享署名-相同方式共享 4.0。
+
+该 JSON 中的转录、标点、异文校记与本次结构化整理，以 CC BY-SA 4.0 方式提供：
+https://creativecommons.org/licenses/by-sa/4.0/
+署名：维基文库编辑者；本次结构化整理为 Codex 2026-10-14。
+修改说明：抽取古籍段落，拆分卦辞、六爻、彖、大象、小象；消除页面导航及行间空白；把主源“一作……”注记移入 source_notes。保留底本文字，不用其他版本替换主源。
+再次分发此数据或其改编版本时，请保留本署名、许可链接及来源，并以相同许可分享改编数据。
+此许可针对该数据与整理，不对与它共同分发的应用程序作许可声明。
+
+独立对照来源：數位經典网站《周易》，郭和杰校对／编辑／整理。每卦对照 URL 已置于 JSON。
+https://www.chineseclassic.com/13jing/yi/index.htm
+本数据不复制该站现代说明；仅用古籍原文进行核对，保留古文版本差异。
+
+追加抽查来源：易學網所录王弼注、孔颖达疏《周易正义》，14 大有、41 损、52 艮。
+https://www.eee-learning.com/book/eee-jy14
+https://www.eee-learning.com/book/eee-jy41
+https://www.eee-learning.com/book/eee-jy52
+该站声明古籍原文公有领域。JSON 仅记录古文抽查片段，不复制该站现代研究文章或评论。
+
+易安居 zhouyi.cc 的64卦现代文章继续通过在线链接阅读，不纳入此离线古文数据。

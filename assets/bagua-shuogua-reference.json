@@ -1,0 +1,154 @@
+{
+  "title": "八卦类象·说卦传原文参考",
+  "edition_note": "按《说卦传》第七至十一章整理。古文全文保留底本繁体；现代原版远程图表未恢复。本表是离线参考重建，不含现代断语。",
+  "trigrams": [
+    {
+      "index": 1,
+      "name": "乾",
+      "symbol": "☰",
+      "trigram_number": 1,
+      "code_bottom_first_01": "111",
+      "quality": "健",
+      "animal": "馬",
+      "body": "首",
+      "family": "父",
+      "source_excerpt": "乾為天、為圜、為君、為父、為玉、為金、為寒、為冰、為大赤、為良馬、為老馬、為瘠馬、為駁馬、為木果。",
+      "variant_notes": [],
+      "source_urls": [
+        "https://zh.wikisource.org/w/index.php?title=易傳/說卦&oldid=2614055",
+        "https://www.chinese-classics.org/read/confucius/yi-jing/appendix/shuo-gua",
+        "https://www.gushiwen.cn/guwen/bookv_2066d5e2cf33.aspx"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "坤",
+      "symbol": "☷",
+      "trigram_number": 8,
+      "code_bottom_first_01": "000",
+      "quality": "順",
+      "animal": "牛",
+      "body": "腹",
+      "family": "母",
+      "source_excerpt": "坤為地、為母、為布、為釜、為吝嗇、為均、為子母牛、為大輿、為文、為眾、為柄。 其於地也為黑。",
+      "variant_notes": [],
+      "source_urls": [
+        "https://zh.wikisource.org/w/index.php?title=易傳/說卦&oldid=2614055",
+        "https://www.chinese-classics.org/read/confucius/yi-jing/appendix/shuo-gua",
+        "https://www.gushiwen.cn/guwen/bookv_2066d5e2cf33.aspx"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "坎",
+      "symbol": "☵",
+      "trigram_number": 6,
+      "code_bottom_first_01": "010",
+      "quality": "陷",
+      "animal": "豕",
+      "body": "耳",
+      "family": "中男",
+      "source_excerpt": "坎為水、為溝瀆、為隱伏、為矯輮、為弓輪。 其於人也，為加憂、為心病、為耳痛、為血卦、為赤。 其於馬也，為美脊、為亟心、為下首、為薄蹄、為曳。 其於輿也，為多眚、為通、為月、為盜。 其於木也，為堅多心。",
+      "variant_notes": [],
+      "source_urls": [
+        "https://zh.wikisource.org/w/index.php?title=易傳/說卦&oldid=2614055",
+        "https://www.chinese-classics.org/read/confucius/yi-jing/appendix/shuo-gua",
+        "https://www.gushiwen.cn/guwen/bookv_2066d5e2cf33.aspx"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "艮",
+      "symbol": "☶",
+      "trigram_number": 7,
+      "code_bottom_first_01": "001",
+      "quality": "止",
+      "animal": "狗",
+      "body": "手",
+      "family": "少男",
+      "source_excerpt": "艮為山、為徑路、為小石、為門闕、為果蓏、為閽寺、為指、為狗、為鼠、為黔喙之屬。 其於木也，為堅多節。",
+      "variant_notes": [
+        "古文岛作“果苽”；文库及古典文库作“果蓏”，采用“果蓏”。"
+      ],
+      "source_urls": [
+        "https://zh.wikisource.org/w/index.php?title=易傳/說卦&oldid=2614055",
+        "https://www.chinese-classics.org/read/confucius/yi-jing/appendix/shuo-gua",
+        "https://www.gushiwen.cn/guwen/bookv_2066d5e2cf33.aspx"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "震",
+      "symbol": "☳",
+      "trigram_number": 4,
+      "code_bottom_first_01": "100",
+      "quality": "動",
+      "animal": "龍",
+      "body": "足",
+      "family": "長男",
+      "source_excerpt": "震為雷、為龍、為玄黃、為敷、為大涂、為長子、為決躁、為蒼筤竹、為萑葦。 其於馬也，為善鳴、為馵足，為的顙。 其於稼也，為反生。 其究為健，為蕃鮮。",
+      "variant_notes": [
+        "古文岛第十一章在“為馵足”与“為的顙”之间另有“為作足”；底本文库及古典文库均未列，采用底本并保留本校记。"
+      ],
+      "source_urls": [
+        "https://zh.wikisource.org/w/index.php?title=易傳/說卦&oldid=2614055",
+        "https://www.chinese-classics.org/read/confucius/yi-jing/appendix/shuo-gua",
+        "https://www.gushiwen.cn/guwen/bookv_2066d5e2cf33.aspx"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "巽",
+      "symbol": "☴",
+      "trigram_number": 5,
+      "code_bottom_first_01": "011",
+      "quality": "入",
+      "animal": "雞",
+      "body": "股",
+      "family": "長女",
+      "source_excerpt": "巽為木、為風、為長女、為繩直、為工、為白、為長、為高、為進退、為不果、為臭。 其於人也，為寡髮、為廣顙、為多白眼、為近利市三倍。 其究為躁卦。",
+      "variant_notes": [],
+      "source_urls": [
+        "https://zh.wikisource.org/w/index.php?title=易傳/說卦&oldid=2614055",
+        "https://www.chinese-classics.org/read/confucius/yi-jing/appendix/shuo-gua",
+        "https://www.gushiwen.cn/guwen/bookv_2066d5e2cf33.aspx"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "离",
+      "symbol": "☲",
+      "trigram_number": 3,
+      "code_bottom_first_01": "101",
+      "quality": "麗",
+      "animal": "雉",
+      "body": "目",
+      "family": "中女",
+      "source_excerpt": "離為火、為日、為電、為中女、為甲冑、為戈兵。 其於人也，為大腹、為乾卦、為鱉、為蟹、為蠃、為蚌、為龜。 其於木也，為科上槁。",
+      "variant_notes": [],
+      "source_urls": [
+        "https://zh.wikisource.org/w/index.php?title=易傳/說卦&oldid=2614055",
+        "https://www.chinese-classics.org/read/confucius/yi-jing/appendix/shuo-gua",
+        "https://www.gushiwen.cn/guwen/bookv_2066d5e2cf33.aspx"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "兑",
+      "symbol": "☱",
+      "trigram_number": 2,
+      "code_bottom_first_01": "110",
+      "quality": "說",
+      "animal": "羊",
+      "body": "口",
+      "family": "少女",
+      "source_excerpt": "兌為澤、為少女、為巫、為口舌、為毀折、為附決。 其於地也，為剛鹵，為妾、為羊。",
+      "variant_notes": [],
+      "source_urls": [
+        "https://zh.wikisource.org/w/index.php?title=易傳/說卦&oldid=2614055",
+        "https://www.chinese-classics.org/read/confucius/yi-jing/appendix/shuo-gua",
+        "https://www.gushiwen.cn/guwen/bookv_2066d5e2cf33.aspx"
+      ]
+    }
+  ]
+}

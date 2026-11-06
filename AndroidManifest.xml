@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.jianyi.yixue"
+    android:versionCode="29"
+    android:versionName="2.3.11">
+    <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="35" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="false"
+        android:debuggable="false"
+        android:fullBackupContent="false"
+        android:icon="@drawable/ic_launcher"
+        android:roundIcon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="false"
+        android:usesCleartextTraffic="false"
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
+        <activity android:name="app.jianyi.yixue.runtime.BaziAiActivity" android:exported="false" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize" />
+        <activity android:name="app.jianyi.yixue.runtime.BaziActivity" android:exported="false" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize" />
+        <activity android:name="app.jianyi.yixue.runtime.AiReadingActivity" android:exported="false" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize" />
+        <activity android:name="app.jianyi.yixue.runtime.MeihuaReferenceActivity" android:exported="false" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize" />
+        <activity android:name="app.jianyi.yixue.runtime.LearningActivity" android:exported="false" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize" />
+        <activity android:name="app.jianyi.yixue.runtime.FoundationPracticeActivity" android:exported="false" android:screenOrientation="portrait" />
+        <activity android:name="app.jianyi.yixue.runtime.NotebookActivity" android:exported="false" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize" />
+        <activity android:name="app.jianyi.yixue.runtime.LiuYaoActivity" android:exported="false" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize" />
+        <activity android:name="app.jianyi.yixue.runtime.DayanActivity" android:exported="false" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize" />
+        <activity android:name="app.jianyi.yixue.runtime.JianYiActivity" android:exported="true" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

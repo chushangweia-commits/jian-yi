@@ -1,0 +1,52 @@
+# Generated artifacts and local build state
+/build/
+/dist/
+/out/
+/ai-test/
+/backup-test/
+/engine-check/
+/engine-test/
+/entry-compile/
+/host-review/
+/host-test/
+/host-test-classes/
+/host-test-src/
+/policy-test/
+/upgrade-test/
+/archive/
+*.apk
+*.aab
+*.apks
+*.jar
+*.dex
+
+# Signing material and local credentials
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+
+# Local-only files; deliberately excluded from release packaging
+/assets/guests-activity-map.json
+/assets/private-api-bootstrap.json
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.gradle/
+__pycache__/
+*.py[cod]
+
+# Local verification outputs and historical UI captures
+/*Check.java
+/bazi.xml
+/entry*.xml
+/mode.xml
+/v*.xml
+/*-qa.png
+/current-ui.png
+/ui-*.png

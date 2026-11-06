@@ -1,0 +1,583 @@
+{
+  "source_url": "https://www.zhouyi.cc/zhouyi/yijing64/",
+  "description": "卦名、卦序与文章链接目录；文章正文由原网站在线提供。",
+  "line_order": "bottom-first; 1=yang,0=yin",
+  "hexagrams": [
+    {
+      "number": 1,
+      "short_name": "乾",
+      "full_name": "乾为天",
+      "upper": 1,
+      "lower": 1,
+      "code": "111111",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4103.html"
+    },
+    {
+      "number": 2,
+      "short_name": "坤",
+      "full_name": "坤为地",
+      "upper": 8,
+      "lower": 8,
+      "code": "000000",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4105.html"
+    },
+    {
+      "number": 3,
+      "short_name": "屯",
+      "full_name": "水雷屯",
+      "upper": 6,
+      "lower": 4,
+      "code": "100010",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4106.html"
+    },
+    {
+      "number": 4,
+      "short_name": "蒙",
+      "full_name": "山水蒙",
+      "upper": 7,
+      "lower": 6,
+      "code": "010001",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4107.html"
+    },
+    {
+      "number": 5,
+      "short_name": "需",
+      "full_name": "水天需",
+      "upper": 6,
+      "lower": 1,
+      "code": "111010",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4108.html"
+    },
+    {
+      "number": 6,
+      "short_name": "讼",
+      "full_name": "天水讼",
+      "upper": 1,
+      "lower": 6,
+      "code": "010111",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4109.html"
+    },
+    {
+      "number": 7,
+      "short_name": "师",
+      "full_name": "地水师",
+      "upper": 8,
+      "lower": 6,
+      "code": "010000",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4110.html"
+    },
+    {
+      "number": 8,
+      "short_name": "比",
+      "full_name": "水地比",
+      "upper": 6,
+      "lower": 8,
+      "code": "000010",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4111.html"
+    },
+    {
+      "number": 9,
+      "short_name": "小畜",
+      "full_name": "风天小畜",
+      "upper": 5,
+      "lower": 1,
+      "code": "111011",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4112.html"
+    },
+    {
+      "number": 10,
+      "short_name": "履",
+      "full_name": "天泽履",
+      "upper": 1,
+      "lower": 2,
+      "code": "110111",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4113.html"
+    },
+    {
+      "number": 11,
+      "short_name": "泰",
+      "full_name": "地天泰",
+      "upper": 8,
+      "lower": 1,
+      "code": "111000",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4126.html"
+    },
+    {
+      "number": 12,
+      "short_name": "否",
+      "full_name": "天地否",
+      "upper": 1,
+      "lower": 8,
+      "code": "000111",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4127.html"
+    },
+    {
+      "number": 13,
+      "short_name": "同人",
+      "full_name": "天火同人",
+      "upper": 1,
+      "lower": 3,
+      "code": "101111",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4140.html"
+    },
+    {
+      "number": 14,
+      "short_name": "大有",
+      "full_name": "火天大有",
+      "upper": 3,
+      "lower": 1,
+      "code": "111101",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4141.html"
+    },
+    {
+      "number": 15,
+      "short_name": "谦",
+      "full_name": "地山谦",
+      "upper": 8,
+      "lower": 7,
+      "code": "001000",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4142.html"
+    },
+    {
+      "number": 16,
+      "short_name": "豫",
+      "full_name": "雷地豫",
+      "upper": 4,
+      "lower": 8,
+      "code": "000100",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4143.html"
+    },
+    {
+      "number": 17,
+      "short_name": "随",
+      "full_name": "泽雷随",
+      "upper": 2,
+      "lower": 4,
+      "code": "100110",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4144.html"
+    },
+    {
+      "number": 18,
+      "short_name": "蛊",
+      "full_name": "山风蛊",
+      "upper": 7,
+      "lower": 5,
+      "code": "011001",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4145.html"
+    },
+    {
+      "number": 19,
+      "short_name": "临",
+      "full_name": "地泽临",
+      "upper": 8,
+      "lower": 2,
+      "code": "110000",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4146.html"
+    },
+    {
+      "number": 20,
+      "short_name": "观",
+      "full_name": "风地观",
+      "upper": 5,
+      "lower": 8,
+      "code": "000011",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4147.html"
+    },
+    {
+      "number": 21,
+      "short_name": "噬嗑",
+      "full_name": "火雷噬嗑",
+      "upper": 3,
+      "lower": 4,
+      "code": "100101",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4148.html"
+    },
+    {
+      "number": 22,
+      "short_name": "贲",
+      "full_name": "山火贲",
+      "upper": 7,
+      "lower": 3,
+      "code": "101001",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4149.html"
+    },
+    {
+      "number": 23,
+      "short_name": "剥",
+      "full_name": "山地剥",
+      "upper": 7,
+      "lower": 8,
+      "code": "000001",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4150.html"
+    },
+    {
+      "number": 24,
+      "short_name": "复",
+      "full_name": "地雷复",
+      "upper": 8,
+      "lower": 4,
+      "code": "100000",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4152.html"
+    },
+    {
+      "number": 25,
+      "short_name": "无妄",
+      "full_name": "天雷无妄",
+      "upper": 1,
+      "lower": 4,
+      "code": "100111",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4153.html"
+    },
+    {
+      "number": 26,
+      "short_name": "大畜",
+      "full_name": "山天大畜",
+      "upper": 7,
+      "lower": 1,
+      "code": "111001",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4159.html"
+    },
+    {
+      "number": 27,
+      "short_name": "颐",
+      "full_name": "山雷颐",
+      "upper": 7,
+      "lower": 4,
+      "code": "100001",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4164.html"
+    },
+    {
+      "number": 28,
+      "short_name": "大过",
+      "full_name": "泽风大过",
+      "upper": 2,
+      "lower": 5,
+      "code": "011110",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4167.html"
+    },
+    {
+      "number": 29,
+      "short_name": "坎",
+      "full_name": "坎为水",
+      "upper": 6,
+      "lower": 6,
+      "code": "010010",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4168.html"
+    },
+    {
+      "number": 30,
+      "short_name": "离",
+      "full_name": "离为火",
+      "upper": 3,
+      "lower": 3,
+      "code": "101101",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4169.html"
+    },
+    {
+      "number": 31,
+      "short_name": "咸",
+      "full_name": "泽山咸",
+      "upper": 2,
+      "lower": 7,
+      "code": "001110",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4170.html"
+    },
+    {
+      "number": 32,
+      "short_name": "恒",
+      "full_name": "雷风恒",
+      "upper": 4,
+      "lower": 5,
+      "code": "011100",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4171.html"
+    },
+    {
+      "number": 33,
+      "short_name": "遁",
+      "full_name": "天山遁",
+      "upper": 1,
+      "lower": 7,
+      "code": "001111",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4172.html"
+    },
+    {
+      "number": 34,
+      "short_name": "大壮",
+      "full_name": "雷天大壮",
+      "upper": 4,
+      "lower": 1,
+      "code": "111100",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4173.html"
+    },
+    {
+      "number": 35,
+      "short_name": "晋",
+      "full_name": "火地晋",
+      "upper": 3,
+      "lower": 8,
+      "code": "000101",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4174.html"
+    },
+    {
+      "number": 36,
+      "short_name": "明夷",
+      "full_name": "地火明夷",
+      "upper": 8,
+      "lower": 3,
+      "code": "101000",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4175.html"
+    },
+    {
+      "number": 37,
+      "short_name": "家人",
+      "full_name": "风火家人",
+      "upper": 5,
+      "lower": 3,
+      "code": "101011",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4176.html"
+    },
+    {
+      "number": 38,
+      "short_name": "睽",
+      "full_name": "火泽睽",
+      "upper": 3,
+      "lower": 2,
+      "code": "110101",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4177.html"
+    },
+    {
+      "number": 39,
+      "short_name": "蹇",
+      "full_name": "水山蹇",
+      "upper": 6,
+      "lower": 7,
+      "code": "001010",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4179.html"
+    },
+    {
+      "number": 40,
+      "short_name": "解",
+      "full_name": "雷水解",
+      "upper": 4,
+      "lower": 6,
+      "code": "010100",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4180.html"
+    },
+    {
+      "number": 41,
+      "short_name": "损",
+      "full_name": "山泽损",
+      "upper": 7,
+      "lower": 2,
+      "code": "110001",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4181.html"
+    },
+    {
+      "number": 42,
+      "short_name": "益",
+      "full_name": "风雷益",
+      "upper": 5,
+      "lower": 4,
+      "code": "100011",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4182.html"
+    },
+    {
+      "number": 43,
+      "short_name": "夬",
+      "full_name": "泽天夬",
+      "upper": 2,
+      "lower": 1,
+      "code": "111110",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4183.html"
+    },
+    {
+      "number": 44,
+      "short_name": "姤",
+      "full_name": "天风姤",
+      "upper": 1,
+      "lower": 5,
+      "code": "011111",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4184.html"
+    },
+    {
+      "number": 45,
+      "short_name": "萃",
+      "full_name": "泽地萃",
+      "upper": 2,
+      "lower": 8,
+      "code": "000110",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4185.html"
+    },
+    {
+      "number": 46,
+      "short_name": "升",
+      "full_name": "地风升",
+      "upper": 8,
+      "lower": 5,
+      "code": "011000",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4186.html"
+    },
+    {
+      "number": 47,
+      "short_name": "困",
+      "full_name": "泽水困",
+      "upper": 2,
+      "lower": 6,
+      "code": "010110",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4187.html"
+    },
+    {
+      "number": 48,
+      "short_name": "井",
+      "full_name": "水风井",
+      "upper": 6,
+      "lower": 5,
+      "code": "011010",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4188.html"
+    },
+    {
+      "number": 49,
+      "short_name": "革",
+      "full_name": "泽火革",
+      "upper": 2,
+      "lower": 3,
+      "code": "101110",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4189.html"
+    },
+    {
+      "number": 50,
+      "short_name": "鼎",
+      "full_name": "火风鼎",
+      "upper": 3,
+      "lower": 5,
+      "code": "011101",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4190.html"
+    },
+    {
+      "number": 51,
+      "short_name": "震",
+      "full_name": "震为雷",
+      "upper": 4,
+      "lower": 4,
+      "code": "100100",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4192.html"
+    },
+    {
+      "number": 52,
+      "short_name": "艮",
+      "full_name": "艮为山",
+      "upper": 7,
+      "lower": 7,
+      "code": "001001",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4193.html"
+    },
+    {
+      "number": 53,
+      "short_name": "渐",
+      "full_name": "风山渐",
+      "upper": 5,
+      "lower": 7,
+      "code": "001011",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4194.html"
+    },
+    {
+      "number": 54,
+      "short_name": "归妹",
+      "full_name": "雷泽归妹",
+      "upper": 4,
+      "lower": 2,
+      "code": "110100",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4195.html"
+    },
+    {
+      "number": 55,
+      "short_name": "丰",
+      "full_name": "雷火丰",
+      "upper": 4,
+      "lower": 3,
+      "code": "101100",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4196.html"
+    },
+    {
+      "number": 56,
+      "short_name": "旅",
+      "full_name": "火山旅",
+      "upper": 3,
+      "lower": 7,
+      "code": "001101",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4197.html"
+    },
+    {
+      "number": 57,
+      "short_name": "巽",
+      "full_name": "巽为风",
+      "upper": 5,
+      "lower": 5,
+      "code": "011011",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4198.html"
+    },
+    {
+      "number": 58,
+      "short_name": "兑",
+      "full_name": "兑为泽",
+      "upper": 2,
+      "lower": 2,
+      "code": "110110",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4200.html"
+    },
+    {
+      "number": 59,
+      "short_name": "涣",
+      "full_name": "风水涣",
+      "upper": 5,
+      "lower": 6,
+      "code": "010011",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4212.html"
+    },
+    {
+      "number": 60,
+      "short_name": "节",
+      "full_name": "水泽节",
+      "upper": 6,
+      "lower": 2,
+      "code": "110010",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4244.html"
+    },
+    {
+      "number": 61,
+      "short_name": "中孚",
+      "full_name": "风泽中孚",
+      "upper": 5,
+      "lower": 2,
+      "code": "110011",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4255.html"
+    },
+    {
+      "number": 62,
+      "short_name": "小过",
+      "full_name": "雷山小过",
+      "upper": 4,
+      "lower": 7,
+      "code": "001100",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4256.html"
+    },
+    {
+      "number": 63,
+      "short_name": "既济",
+      "full_name": "水火既济",
+      "upper": 6,
+      "lower": 3,
+      "code": "101010",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4257.html"
+    },
+    {
+      "number": 64,
+      "short_name": "未济",
+      "full_name": "火水未济",
+      "upper": 3,
+      "lower": 6,
+      "code": "010101",
+      "url": "https://www.zhouyi.cc/zhouyi/yijing64/4263.html"
+    }
+  ]
+}
